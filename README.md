@@ -17,7 +17,7 @@ Solidity is the primary language used to code this application. Remix IDE isutil
 
 
 ----------------------------------------
-#Usage guide
+# Usage guide
 
 Copy or import the contract.sol into the remix IDE, compile and deploye in VM environment. 
 
